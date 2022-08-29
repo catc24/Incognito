@@ -6,12 +6,12 @@ function community(app) {
         'div', 
         [
             app.createElement('section', [
-                app.createElement('p', 'You are being taken to another website (discord.gg/unblock).', {
+                app.createElement('p', 'You are being taken to another website (https://discord.gg/MsbeNvVq6q).', {
                         style: {
                             'margin-bottom': '0'
                         }
                     }),
-                    app.createElement('p', 'Are you sure you want to <a href="https://discord.gg/unblock">proceed</a>?', {
+                    app.createElement('p', 'Are you sure you want to <a href="https://discord.gg/MsbeNvVq6q">proceed</a>?', {
                         style: {
                             'margin-bottom': '0'
                         }
